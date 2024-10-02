@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Jyotiraditya Chillal<h1>
-<p align="center">A passionate developer from India.</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayesh9747&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh9747" /> </p>
+<p align="center">A passionate developer and ML Enthusiast from India.</p>
 
 
 
