@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jyotiraditya Chillal<h1>
+<p align="center">A passionate developer from India.</p>
 
-<!--
-**Jyotiraditya0309ch/Jyotiraditya0309ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jayesh9747&label=Profile%20views&color=0e75b6&style=flat" alt="jayesh9747" /> </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<ul>
+  <li>🔭 Web Developer</li>
+  <li>🌱 I’m currently working on Deep Learning</li>
+  <li>👨‍💻 All of my projects are available at <a href="https://github.com/Jyotiraditya0309ch" target="_blank">https://github.com/Jyotiraditya0309ch</a></li>
+</ul>
+
+
+
+
+
+<h2 align="center">Connect with me</h2>
+<div align="center">  
+  <a href="https://github.com/Jyotiraditya0309ch" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/jyotiraditya-chillal-816b76259/" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a> 
+</div>
